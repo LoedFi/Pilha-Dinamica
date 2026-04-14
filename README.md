@@ -1,2 +1,2 @@
-# Pilha-Din-mica
+# Pilha-Dinamica
 Pilha Dinâmica em C
